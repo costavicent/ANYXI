@@ -9,7 +9,7 @@ The interested reader is referred to the following publication for further detai
 
 ## Contents of this project
 
-**The QArt337 dataset**. This dataset comes out of joining the QArt-Dataset and the Painting-91-BIP dataset. For further details on the QArt-Dataset, the
+**The QArt337 dataset**. This dataset ('QArt-337.csv') comes out of joining the QArt-Dataset and the Painting-91-BIP dataset. For further details on the QArt-Dataset, the
 reader is referred to
    Falomir, Cabedo, Sanz, and Abril (2018): _Categorizing paintings in art styles based on qualitative color descriptors, quantitative global features and
 machine learning (QArt-Learn)_. Expert Syst. Appl., 97, 83–94. Retrieved from https://doi.org/10.1016/j.eswa.2017.11.056
@@ -26,6 +26,8 @@ contrastblueyellowlevel, and contrastredgreenlevel_.
 
 The classification task consists of identifying one out of the Baroque, Impressionism, and Post-Impressionism, in terms of the values given for 
 all the 12 selected features. 
+
+
 
 **The details on the experimental results of the ANYXI**.
 
