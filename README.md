@@ -11,11 +11,11 @@ The interested reader is referred to the following publication for further detai
 
 **The QArt337 dataset**. This dataset comes out of joining the QArt-Dataset and the Painting-91-BIP dataset. For further details on the QArt-Dataset, the
 reader is referred to
-   Falomir, Cabedo, Sanz, Abril (2018): _Categorizing paintings in art styles based on qualitative color descriptors, quantitative global features and
-machine learning (QArt-Learn)_. Expert Syst. Appl., 97 , 83–94. Retrieved from https://doi.org/10.1016/j.eswa.2017.11.056
+   Falomir, Cabedo, Sanz, and Abril (2018): _Categorizing paintings in art styles based on qualitative color descriptors, quantitative global features and
+machine learning (QArt-Learn)_. Expert Syst. Appl., 97, 83–94. Retrieved from https://doi.org/10.1016/j.eswa.2017.11.056
 
 For further details on the Painting-91-BIP dataset, the reader is referred to
-Costa, Dellunde, Falomir (2021): _The logical style painting classifier based on Horn clauses and explanations (l-she)_. Log. J. IGPL, 29 (1), 96–119. 
+Costa, Dellunde, and Falomir (2021): _The logical style painting classifier based on Horn clauses and explanations (l-she)_. Log. J. IGPL, 29 (1), 96–119. 
 Retrieved from https://doi.org/10.1093/jigpal/jzz029
 
 The QArt337 dataset includes 337 samples of paintings. Each sample is described in terms of the following 12 meaningful color features, described in 
@@ -27,6 +27,6 @@ contrastblueyellowlevel, and contrastredgreenlevel_.
 The classification task consists of identifying one out of the Baroque, Impressionism, and Post-Impressionism, in terms of the values given for 
 all the 12 selected features. 
 
-**The details on the experimentatal results of the ANYXI**.
+**The details on the experimental results of the ANYXI**.
 
 ## Usage
