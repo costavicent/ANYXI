@@ -29,6 +29,7 @@ all the 12 selected features.
 
 
 
-**The details on the experimental results of the ANYXI**.
+## The details on the experimental results of the ANYXI
 
-## Usage
+This project shows the implementation of ANYXI and the experimental results of its evaluation. In particular, 10-fold cross-validation is applied to evaluate the goodness of all the versions of ANYXI. 'TrainX' refers to the training dataset regarding X-th performance of the cross-validation, and similarly for 'TestX'.
+
